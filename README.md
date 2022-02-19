@@ -1,5 +1,7 @@
-npm init vite@latest
+yarn vite@latest
 
-npm run dev
+yarn dev
 
-npm install -D tailwindcss postcss autoprefixer
+yarn add tailwindcss postcss autoprefixer
+
+yarn add ethers
